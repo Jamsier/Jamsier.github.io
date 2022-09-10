@@ -1,3 +1,3 @@
 # Jamsier.github.io
 
-the web https://Jamsier.githun.io
+the web https://Jamsier.github.io
